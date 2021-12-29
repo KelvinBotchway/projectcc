@@ -1,0 +1,67 @@
+body{
+    font-size: 16px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+#header-nav{
+    background-color: rgb(143, 138, 138);
+    border-radius: 0;
+    height: 70px;
+    border: solid black 1px;
+    align-items: center;
+}
+
+.navbar-brand h1{
+    color: black;
+    font-size: 1.5em;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-top: auto;
+}
+.lorem{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:  rgb(143, 138, 138);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.men{
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
+.navbar-toggle{
+    background: rgb(32, 32, 32);
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+.icon-bar{
+    width: 24px;
+    height: 10px;
+    background-color: white;
+    
+}
+
+.chick{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -10px;
+}
+
+#nav-list{
+    background-color: rgba(87, 165, 189, 0.336);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    margin-top: ;
+    
+}
+
+.line{
+    background-color: black;
+    height: 1px;
+    margin-top: auto;
+}
